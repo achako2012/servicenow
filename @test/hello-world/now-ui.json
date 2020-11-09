@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-553145-hello-world": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My first component",
+				"icon": "chat-fill",
+				"description": "My first component"
+			},
+			"innerComponents": []
+	    }
+	},
+	"scopeName": "x_553145_test_he_1"
+}
